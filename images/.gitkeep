@@ -1,0 +1,1 @@
+plt.savefig('screenshot_01_target.png', dpi=300)
